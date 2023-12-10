@@ -1,6 +1,9 @@
 # Tracking-people-texting-on-streets
 Detecting and tracking people texting on streets using YOLO-NAS and DEEP-SORT  
 
+This is a 300 image dataset. Privacy and ethical concerns made my picky in choosing input files.
+Adding more images can boost accuracy
+
 On random internet images:
 ![download (32)](https://github.com/Leanse1/Tracking-people-texting-on-streets/assets/138543566/29ba9c98-2265-4c1d-ad98-2f6158e29615)
 
