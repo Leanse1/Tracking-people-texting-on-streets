@@ -9,3 +9,8 @@ On random internet images:
 
 On youtube video: https://www.youtube.com/watch?v=xYG82Tm7C0w
 
+
+https://github.com/Leanse1/Tracking-people-texting-on-streets/assets/138543566/1352e49f-39bb-4115-8a27-b478ab294228
+
+
+
